@@ -25,6 +25,8 @@ img {
   float: right;
   width: 600px;
   height: 460px;
+  color: blueviolet;
+  opacity: 0.3;
 }
 
 .text {
